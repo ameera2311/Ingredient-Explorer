@@ -14,12 +14,12 @@ export default function Navbar() {
 
   return (
     <nav className="flex flex-wrap items-center justify-between px-6 py-4 bg-white shadow-md gap-4">
-      {/* 🍽️ Website Title */}
+    
       <h1 className="text-2xl font-bold text-orange-600 tracking-normal font-poppins w-full sm:w-auto text-center sm:text-left">
        Ingredient Explorer
       </h1>
 
-      {/* 🔍 Search Form */}
+     
       <div className="w-full sm:w-auto flex justify-center flex-grow">
         <form
           onSubmit={handleSearch}
@@ -41,16 +41,16 @@ export default function Navbar() {
         </form>
       </div>
 
-      {/* ⏱️ Time Filter Dropdown */}
+      
      <div className="ml-auto sm:ml-0 w-full sm:w-auto flex justify-end">
   <div className="relative w-full sm:w-48">
-    {/* Icon */}
+    
     <Clock
       size={18}
       className="absolute left-3 top-1/2 -translate-y-1/2 text-orange-500 pointer-events-none"
     />
 
-    {/* Select Dropdown */}
+   
     <select
       value={timeFilter}
       onChange={(e) => setTimeFilter(e.target.value)}
@@ -64,7 +64,7 @@ export default function Navbar() {
       <option value="above60">Above 60 mins</option>
     </select>
 
-    {/* Custom arrow */}
+  
     <svg
       className="absolute right-3 top-1/2 -translate-y-1/2 w-4 h-4 text-gray-400 pointer-events-none"
       xmlns="http://www.w3.org/2000/svg"

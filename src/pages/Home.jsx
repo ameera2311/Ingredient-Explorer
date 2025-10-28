@@ -7,7 +7,7 @@ export default function Home() {
   const { fetchRecipes, recipes, loading } = useContext(RecipeContext);
 
   const handleIngredientSelect = (ingredient) => {
-    fetchRecipes(ingredient); // ✅ fetch recipes by ingredient
+    fetchRecipes(ingredient); 
   };
 
   return (

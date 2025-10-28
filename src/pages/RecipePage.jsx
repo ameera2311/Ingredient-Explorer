@@ -1,6 +1,6 @@
 import React from "react";
 import RecipeDetails from "../components/RecipeDetails";
-import Navbar from "../components/Navbar";
+import Navbar from "../components/NavBar";
 import Footer from "../components/Footer";
 
 export default function RecipePage({ recipe, onBack }) {
