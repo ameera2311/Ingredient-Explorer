@@ -1,4 +1,6 @@
 Ingredient Explorer
+
+
 A simple and user-friendly web app that helps you search for recipes or ingredients quickly and explore related food items. Built using Vite + React + Tailwind CSS for a fast and modern UI experience.
 
 🌐 Live Demo
@@ -14,17 +16,20 @@ Preview
 
 
  Tech Stack
+ 
  Vite – Fast frontend build tool
  React.js – Component-based UI library
  Tailwind CSS – Utility-first styling
  JavaScript (ES6+) – Core logic and interactivity
 
  Features
+ 
  ✅ Search recipes or ingredients easily
  ✅ Filter options for quick category browsing
  ✅ Responsive and clean design
  ✅ Fast performance using Vite
  ✅ Simple and modern UI
+
 
 🚀 Getting Started (Run Locally)
 
