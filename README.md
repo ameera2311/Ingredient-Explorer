@@ -1,4 +1,4 @@
-Ingredient Explorer
+INGREDIENT EXPLORER
 
 
 A simple and user-friendly web app that helps you search for recipes or ingredients quickly and explore related food items. Built using Vite + React + Tailwind CSS for a fast and modern UI experience.
@@ -7,7 +7,7 @@ A simple and user-friendly web app that helps you search for recipes or ingredie
 
 👉 https://86wyhl-5173.csb.app/
 
-Preview
+PREVIEW
 
   <img width="1897" height="911" alt="Screenshot 2025-10-29 180937" src="https://github.com/user-attachments/assets/a1969afc-2046-424e-9d7d-263a1ff88a8d" />
 
