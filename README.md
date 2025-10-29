@@ -4,7 +4,10 @@ A simple and user-friendly web app that helps you search for recipes or ingredie
 🌐 Live Demo
 👉 https://86wyhl-5173.csb.app/
 
-📸 Preview
+Preview
+<img width="1883" height="923" alt="Screenshot 2025-10-29 181004" src="https://github.com/user-attachments/assets/81ee7506-b014-4e4c-99b0-be9ec49ced28" />
+<img width="1897" height="911" alt="Screenshot 2025-10-29 180937" src="https://github.com/user-attachments/assets/a1969afc-2046-424e-9d7d-263a1ff88a8d" />
+
 
  Tech Stack
  Vite – Fast frontend build tool
