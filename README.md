@@ -19,16 +19,23 @@ PREVIEW
  TECH STACK
    
    Vite – Fast frontend build tool
+   
    React.js – Component-based UI library
+   
    Tailwind CSS – Utility-first styling
+   
    JavaScript (ES6+) – Core logic and interactivity
 
  FEATURE
  
   ✅ Search recipes or ingredients easily
+  
   ✅ Filter options for quick category browsing
+  
   ✅ Responsive and clean design
+  
   ✅ Fast performance using Vite
+  
   ✅ Simple and modern UI
 
 
