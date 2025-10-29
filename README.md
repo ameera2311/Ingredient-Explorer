@@ -1,16 +1,54 @@
-# React + Vite
+Ingredient Explorer
+A simple and user-friendly web app that helps you search for recipes or ingredients quickly and explore related food items. Built using Vite + React + Tailwind CSS for a fast and modern UI experience.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌐 Live Demo
+👉 https://86wyhl-5173.csb.app/
 
-Currently, two official plugins are available:
+📸 Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ Tech Stack
+ Vite – Fast frontend build tool
+ React.js – Component-based UI library
+ Tailwind CSS – Utility-first styling
+ JavaScript (ES6+) – Core logic and interactivity
 
-## React Compiler
+ Features
+ ✅ Search recipes or ingredients easily
+ ✅ Filter options for quick category browsing
+ ✅ Responsive and clean design
+ ✅ Fast performance using Vite
+ ✅ Simple and modern UI
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🚀 Getting Started (Run Locally)
 
-## Expanding the ESLint configuration
+Clone the repository
+git clone https://github.com/ameera2311/Ingredient-Explorer.git
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+Navigate to project folder
+cd Ingredient-Explorer
+
+
+Install dependencies
+npm install
+
+
+Run the development server
+npm run dev
+
+
+Open your browser and go to
+👉 http://localhost:5173/
+
+🧰 Project Structure
+Ingredient-Explorer/
+├── public/
+├── src/
+│   ├── components/
+│   ├── assets/
+│   ├── App.jsx
+│   └── main.jsx
+├── package.json
+├── vite.config.js
+└── tailwind.config.js
+
