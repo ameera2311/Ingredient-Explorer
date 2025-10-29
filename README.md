@@ -40,7 +40,7 @@ npm run dev
 Open your browser and go to
 👉 http://localhost:5173/
 
-🧰 Project Structure
+Project Structure
 Ingredient-Explorer/
 ├── public/
 ├── src/
