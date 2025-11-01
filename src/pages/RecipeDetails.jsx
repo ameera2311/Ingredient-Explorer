@@ -28,10 +28,11 @@ export default function RecipeDetails() {
 
   const ingredientCount = getIngredientCount(recipe);
 
+ 
   const getCookingTime = (count) => {
-    if (count <= 5) return "Under 20 mins";
-    if (count <= 10) return "20–40 mins";
-    if (count <= 15) return "40–60 mins";
+    if (count <= 10) return "Under 20 mins";
+    if (count <= 15) return "20–40 mins";
+    if (count <= 20) return "40–60 mins";
     return "Above 60 mins";
   };
 
