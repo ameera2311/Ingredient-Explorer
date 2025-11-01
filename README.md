@@ -11,7 +11,9 @@ A simple and user-friendly web app that helps you search for recipes or ingredie
 PREVIEW
 
 
-  <img width="1897" height="911" alt="Screenshot 2025-10-29 180937" src="https://github.com/user-attachments/assets/a1969afc-2046-424e-9d7d-263a1ff88a8d" />
+  <img width="1896" height="911" alt="Screenshot 2025-11-01 150706" src="https://github.com/user-attachments/assets/becbe41d-b7af-4d25-b4b6-78bdfca5395d" />
+
+  
 
 
 
