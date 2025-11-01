@@ -29,15 +29,16 @@ export default function RecipeDetails() {
   const ingredientCount = getIngredientCount(recipe);
 
   const getCookingTime = (count) => {
-    if (count <= 5) return "Under 20 mins";
-    if (count <= 10) return "20–40 mins";
-    if (count <= 15) return "40–60 mins";
+ const getCookingTime = (count) => {
+    if (count <= 10) return "Under 15 mins";
+    if (count <= 15) return "15–20 mins";
+    if (count <= 20) return "20–40 mins";
     return "Above 60 mins";
   };
 
   const getDifficulty = (count) => {
-    if (count <= 5) return "Easy";
-    if (count <= 10) return "Medium";
+    if (count <= 15) return "Easy";
+    if (count <= 20) return "Medium";
     return "Hard";
   };
 
